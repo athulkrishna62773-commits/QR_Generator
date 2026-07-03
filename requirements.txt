@@ -1,1 +1,2 @@
-Add Streamlit and Segno to requirements
+Streamlit
+Segno

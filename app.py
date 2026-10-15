@@ -10,7 +10,7 @@ st.write("Convert any plain text, phone number, or website URL link into a scann
 # 2. Capture user string inputs dynamically from the web page text box
 user_input_text = st.text_input(
     "Paste your website link or text here:",
-    placeholder="e.g., https://github.com/rehanu04"
+    placeholder="e.g., https://github.com/athulkrishna62773"
 )
 
 # Advanced styling customization switches using our sidebar tools
